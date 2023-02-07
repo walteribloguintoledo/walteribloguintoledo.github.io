@@ -1,0 +1,45 @@
+.mylink {
+  text-decoration: none !important;
+
+}
+
+.navbar {
+  background-color: #f9b76e;
+}
+
+.project {
+  background-color: #3f1702 !important;
+}
+
+.introduction {
+  background-color: #f9b76e;
+}
+
+.carouselExampleCaptions {
+  margin-top: 4;
+  display: block;
+  align-content: center;
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: muted;
+}
+
+.carousel {
+  justify-content: center;
+  width:640px;
+  height:360px;
+}
+
+#tools {
+  background-color: #303c6a !important;
+}
+
+#contactme {
+  background-color: ;
+}
+
+a:hover {
+  color:  #ECB390 !important;
+}
